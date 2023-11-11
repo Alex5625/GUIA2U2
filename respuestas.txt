@@ -1,0 +1,7 @@
+Las respuestas a las preguntas son las siguientes: 
+
+1. cancion que mas veces alcanzó la posicion maxima ---> ["Post Malone ", "rockstar", "124"]
+2. cantidad de reporoducciones totales ---> ["Post Malone ", "Sunflower  SpiderMan: Into the SpiderVerse", "883369738"]
+3. cantidad de reproducciones en peak stream ---> ["Taylor Swift ", "AntiHero", "7786096"]
+4. cantidad de veces en en el top10 --->  ["Post Malone ", "Sunflower  SpiderMan: Into the SpiderVerse", "302"]
+5. cancion mas antigua ---> ["J. Cole ", "No Role Modelz", "2547"]
